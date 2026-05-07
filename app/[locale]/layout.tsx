@@ -1,6 +1,7 @@
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import type { Metadata } from 'next';
+import { Analytics } from '@vercel/analytics/react';
 import { Cormorant_Garamond, Jost } from 'next/font/google';
 import '../globals.css';
 
@@ -37,6 +38,7 @@ export default async function LocaleLayout({
     <html lang={locale} className={`${cormorant.variable} ${jost.variable}`}>
       <body>
         <NextIntlClientProvider messages={messages}>{children}</NextIntlClientProvider>
+        <Analytics />
       </body>
     </html>
   );
