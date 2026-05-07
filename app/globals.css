@@ -1,26 +1,46 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --cream: #f4efe4;
+  --ink: #1c1a14;
+  --ink-soft: #3a3629;
+  --gold: #9a7b3a;
+  --gold-light: #c4a35a;
+  --terra: #8b3a1e;
+  --surface: #fdfaf5;
+  --olive: #3d4a2e;
+  --hero-bg: #2d3520;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-ink: var(--ink);
+  --color-cream: var(--cream);
+  --color-ink-soft: var(--ink-soft);
+  --color-gold: var(--gold);
+  --color-gold-light: var(--gold-light);
+  --color-terra: var(--terra);
+  --color-surface: var(--surface);
+  --color-olive: var(--olive);
+  --color-hero-bg: var(--hero-bg);
+  --font-sans: var(--font-jost), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-cormorant), ui-serif, Georgia, serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--surface);
+  color: var(--ink);
+  font-family: var(--font-jost), ui-sans-serif, system-ui, sans-serif;
+  font-weight: 300;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-cormorant), ui-serif, Georgia, serif;
+  font-weight: 300;
 }

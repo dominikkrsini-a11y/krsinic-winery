@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "about": "About",
+    "wines": "Wines",
+    "vineyards": "Vineyards",
+    "lumbarda": "Lumbarda",
+    "oilmill": "Oil Mill",
+    "contact": "Contact"
+  },
+  "hero": {
+    "line1": "Kršinić",
+    "line2": "Winery",
+    "line3": "Lumbarda",
+    "tagline": "Family tradition. Rare varieties. Sand and sea."
+  },
+  "about": {
+    "quote": "\"Every bottle carries the effort of three generations.\"",
+    "label": "About Us",
+    "title1": "Three generations,",
+    "title2": "one love for wine.",
+    "gen1label": "Where we come from",
+    "gen1text": "It was not long ago that grapes in Lumbarda were carried by donkey from the vineyards to the winery — kilometres on foot, barrel by barrel. That is the world our family comes from. A wooden crusher, steady hands, and patience were all anyone had.",
+    "gen2label": "Our father, Stjepan",
+    "gen2text": "When Stjepan retired some fifteen years ago, he gave the vineyards his full attention. He replanted two fields where old vines had grown for forty or fifty years, and cared for all seven of our vineyards across Lumbarda with the same dedication he always had.",
+    "gen3label": "Today — Dominik Kršinić",
+    "gen3text": "Three years ago Dominik took the next step — learning from an enologist friend, from books, from questions and curiosity. He began bottling the wine and opened our tasting space. We are a small family winery. Two grape varieties, seven vineyards, one honest passion.",
+    "closing": "Small by size. Proud of every bottle."
+  }
+}

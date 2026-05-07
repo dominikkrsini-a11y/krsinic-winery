@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "about": "O Nama",
+    "wines": "Vina",
+    "vineyards": "Vinogradi",
+    "lumbarda": "Lumbarda",
+    "oilmill": "Uljara",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "line1": "Kršinić",
+    "line2": "Winery",
+    "line3": "Lumbarda",
+    "tagline": "Obiteljska tradicija. Rijetke sorte. Pijesak i more."
+  },
+  "about": {
+    "quote": "„Svaka boca nosi u sebi trud triju generacija.\"",
+    "label": "O Nama",
+    "title1": "Tri generacije,",
+    "title2": "jedna ljubav prema vinu.",
+    "gen1label": "Odakle dolazimo",
+    "gen1text": "Nije davno kada su se u Lumbardi grožđe i bačve s vinom nosile magarcem s vinograda do vinarije — kilometrima, polako, bez prečice. Iz toga smo mi. Drvena muljača, strpljive ruke i vjera u ono što zemlja daje — to je bio jedini alat.",
+    "gen2label": "Naš otac, Stjepan",
+    "gen2text": "Kada je Stjepan otišao u mirovinu, prije petnaestak godina, vinogradima je dao svu svoju pažnju. Replanditao je dva polja na kojima su rasle stare loze, stare četrdeset do pedeset godina, i s predanošću čuvao svih sedam naših vinograda diljem Lumbarde.",
+    "gen3label": "Danas — Dominik Kršinić",
+    "gen3text": "Prije tri godine Dominik je napravio sljedeći korak — uz pomoć prijatelja, iz knjiga, pitanjima i znatiželja. Počeo je puniti vino u boce i otvoriti degustacijski prostor. Mala smo obiteljska vinarija. Dvije sorte, sedam vinograda, jedna iskrena strast.",
+    "closing": "Mali po veličini. Ponosni na svaku bocu."
+  }
+}
