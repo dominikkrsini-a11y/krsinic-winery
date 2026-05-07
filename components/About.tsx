@@ -33,7 +33,7 @@ export default function About() {
         {/* Left — image */}
         <div
           className="relative min-h-[500px] md:min-h-[700px] bg-olive bg-cover bg-center"
-          style={{ backgroundImage: "url('/images/about.jpg')" }}
+          style={{ backgroundImage: "url('/images/photo2.webp')" }}
         >
           {/* Gold border accent */}
           <div className="absolute top-8 left-8 right-[-1px] bottom-[-1px] border border-gold pointer-events-none" />

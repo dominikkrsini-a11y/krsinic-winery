@@ -20,11 +20,11 @@ export default function Hero() {
       {/* Background image — replace src with your photo */}
       <div
         className="absolute inset-0 bg-hero-bg bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: "url('/images/hero.jpg')" }}
+        style={{ backgroundImage: "url('/images/photo1.webp')" }}
       />
 
       {/* Dark overlay */}
-      <div className="absolute inset-0 bg-gradient-to-b from-ink/40 to-ink/75" />
+      <div className="absolute inset-0 bg-gradient-to-b from-olive/70 to-ink/85" />
 
       {/* Vertical grid lines decoration */}
       <div className="absolute inset-0 opacity-5 bg-[repeating-linear-gradient(90deg,var(--color-gold-light)_0px,var(--color-gold-light)_1px,transparent_1px,transparent_80px)]" />
