@@ -25,5 +25,47 @@
     "gen3label": "Today — Dominik Kršinić",
     "gen3text": "Three years ago Dominik took the next step — learning from an enologist friend, from books, from questions and curiosity. He began bottling the wine and opened our tasting space. We are a small family winery. Two grape varieties, seven vineyards, one honest passion.",
     "closing": "Small by size. Proud of every bottle."
+  },
+  "wines": {
+    "label": "Wines",
+    "title": "Two house signatures",
+    "grk": {
+      "type": "White wine",
+      "name": "Grk",
+      "vintage": "Vintage 2024",
+      "desc": "A rare native variety from Lumbarda. Mineral, salty and clean — a wine of sand and sea."
+    },
+    "plavac": {
+      "type": "Red wine",
+      "name": "Plavac Mali",
+      "vintage": "Vintage 2023",
+      "desc": "Warm, dark and aromatic. A Dalmatian red with character, soft tannins and a long finish."
+    }
+  },
+  "vineyards": {
+    "label": "Vineyards",
+    "title": "Seven vineyards in Lumbarda",
+    "desc": "Our parcels are spread across Lumbarda — from older vines to new plantings. Each plot has its own story, and we care for each one like family.",
+    "tags": "Lumbarda | Korčula | Sand | Stone | Sea"
+  },
+  "lumbarda": {
+    "label": "Lumbarda",
+    "title": "Island of Korčula, Dalmatia",
+    "desc": "Between sea and stone — Lumbarda is where the vine learns patience. Sun, salt and breeze give our wines their distinctive freshness."
+  },
+  "oilmill": {
+    "label": "Oil mill",
+    "title": "Olive oil from the same place",
+    "desc": "Alongside our vineyards, we also care for olive trees. Simple, local and honest — oil that belongs to our family table and story."
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Get in touch",
+    "locationLabel": "Location",
+    "location": "Lumbarda 313, Island of Korčula, Croatia",
+    "emailLabel": "Email",
+    "email": "dominikkrsini@gmail.com",
+    "phoneLabel": "Phone",
+    "phone": "+385977542009"
   }
 }

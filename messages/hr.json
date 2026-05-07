@@ -25,5 +25,47 @@
     "gen3label": "Danas — Dominik Kršinić",
     "gen3text": "Prije tri godine Dominik je napravio sljedeći korak — uz pomoć prijatelja, iz knjiga, pitanjima i znatiželja. Počeo je puniti vino u boce i otvoriti degustacijski prostor. Mala smo obiteljska vinarija. Dvije sorte, sedam vinograda, jedna iskrena strast.",
     "closing": "Mali po veličini. Ponosni na svaku bocu."
+  },
+  "wines": {
+    "label": "Vina",
+    "title": "Dva potpisa kuće",
+    "grk": {
+      "type": "Bijelo vino",
+      "name": "Grk",
+      "vintage": "Berba 2024",
+      "desc": "Rijetka autohtona sorta iz Lumbarde. Mineralno, slano i čisto — vino pijeska i mora."
+    },
+    "plavac": {
+      "type": "Crno vino",
+      "name": "Plavac Mali",
+      "vintage": "Berba 2023",
+      "desc": "Toplo, tamno i aromatično. Dalmatinsko crno s karakterom, mekim taninima i dugim završetkom."
+    }
+  },
+  "vineyards": {
+    "label": "Vinogradi",
+    "title": "Sedam vinograda u Lumbardi",
+    "desc": "Naša su polja raspršena po Lumbardi — od starijih loza do novih nasada. Svaka parcela ima svoju priču, a mi čuvamo svaku kao dio obitelji.",
+    "tags": "Lumbarda | Korčula | Pijesak | Kamen | More"
+  },
+  "lumbarda": {
+    "label": "Lumbarda",
+    "title": "Otok Korčula, Dalmacija",
+    "desc": "Između mora i kamena — Lumbarda je mjesto gdje se vinova loza uči strpljenju. Sunce, sol i povjetarac daju našim vinima prepoznatljivu svježinu."
+  },
+  "oilmill": {
+    "label": "Uljara",
+    "title": "Maslinovo ulje iz istog kraja",
+    "desc": "Uz vinograde, njegujemo i masline. Jednostavno, lokalno i iskreno — ulje koje prati stol i priču naše obitelji."
+  },
+  "contact": {
+    "label": "Kontakt",
+    "title": "Javite nam se",
+    "locationLabel": "Lokacija",
+    "location": "Lumbarda 313, otok Korčula, Hrvatska",
+    "emailLabel": "Email",
+    "email": "dominikkrsini@gmail.com",
+    "phoneLabel": "Telefon",
+    "phone": "+385977542009"
   }
 }

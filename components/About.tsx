@@ -1,5 +1,6 @@
 'use client';
 
+import Image from 'next/image';
 import { useTranslations } from 'next-intl';
 import { useEffect, useRef, useState } from 'react';
 
@@ -32,8 +33,8 @@ export default function About() {
       <div ref={ref} className="grid grid-cols-1 md:grid-cols-2 gap-0">
         {/* Left — image */}
         <div
-          className="relative min-h-[500px] md:min-h-[700px] bg-olive bg-cover bg-center"
-          style={{ backgroundImage: "url('/images/photo2.webp')" }}
+          className="relative min-h-[500px] md:min-h-[700px] bg-olive bg-cover bg-top"
+          style={{ backgroundImage: "url('/images/stone-press.webp')" }}
         >
           {/* Gold border accent */}
           <div className="absolute top-8 left-8 right-[-1px] bottom-[-1px] border border-gold pointer-events-none" />
@@ -72,7 +73,16 @@ export default function About() {
 
           {/* Generation 3 */}
           <div className="mb-8">
-            <p className="text-xs tracking-[0.2em] uppercase text-gold mb-2">{t('gen3label')}</p>
+            <div className="flex items-center gap-3 mb-2">
+              <Image
+                src="/images/dominik.webp"
+                alt="Dominik Kršinić"
+                width={100}
+                height={100}
+                className="w-[100px] h-[100px] rounded-full object-cover border-2 border-gold"
+              />
+              <p className="text-xs tracking-[0.2em] uppercase text-gold">{t('gen3label')}</p>
+            </div>
             <p className="text-ink-soft leading-relaxed text-sm">{t('gen3text')}</p>
           </div>
 
